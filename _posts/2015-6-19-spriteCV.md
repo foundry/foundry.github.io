@@ -9,7 +9,7 @@ Custom UICollectionView layout giving cells sprite-like behaviour
 
 __16 cells__  
 
-<iframe src="https://player.vimeo.com/video/131198125?autoplay=1&loop=1" width="500" height="780" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198125">SpriteCollectionView - 16 cells</a></p>
+<iframe src="https://player.vimeo.com/video/131198125?autoplay=1&loop=1" width="320" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198125">SpriteCollectionView - 16 cells</a></p>
 
 
 __32 cells__   
