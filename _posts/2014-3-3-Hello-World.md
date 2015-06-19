@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: spriteCV
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<!-- copy and paste. Modify height and width if desired. --><iframe class="tscplayer_inline embeddedObject" name="tsc_player" scrolling="no" frameborder="0" type="text/html" style="overflow:hidden;" src="http://www.screencast.com/users/foundrytv/folders/spriteCV/media/13323de7-ced9-4d4b-bce4-9c04a26b3308/embed" height="720" width="460" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
