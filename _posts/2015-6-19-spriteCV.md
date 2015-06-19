@@ -22,4 +22,4 @@ __64 cells__
 
 __256 cells__  
 
-<iframe src="https://player.vimeo.com/video/131198197" width="500" height="796" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/131198197?loop=1" width="500" height="796" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198197">SpriteCollectionView - 256 cells</a> from <a href="https://vimeo.com/user41225133">foundry</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
