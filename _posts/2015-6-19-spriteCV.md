@@ -14,12 +14,12 @@ __16 cells__
 
 __32 cells__   
 
-<iframe src="https://player.vimeo.com/video/131198126?autoplay=1&loop=1" width="500" height="788" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198126">SpriteCollectionView - 32 cells</a></p> 
+<iframe src="https://player.vimeo.com/video/131198126?autoplay=1&loop=1" width="320" height="504" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198126">SpriteCollectionView - 32 cells</a></p> 
 
 __64 cells__  
 
-<iframe src="https://player.vimeo.com/video/131198204?autoplay=1&loop=1" width="500" height="786" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198204">SpriteCollectionView - 64 cells</a></p>
+<iframe src="https://player.vimeo.com/video/131198204?autoplay=1&loop=1" width="320" height="504" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198204">SpriteCollectionView - 64 cells</a></p>
 
 __256 cells__  
 
-<iframe src="https://player.vimeo.com/video/131198197?autoplay=1&loop=1" width="500" height="796" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198197">SpriteCollectionView - 256 cells</a></p>
+<iframe src="https://player.vimeo.com/video/131198197?autoplay=1&loop=1" width="320" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131198197">SpriteCollectionView - 256 cells</a></p>
