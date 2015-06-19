@@ -13,8 +13,7 @@ __16 cells__
 
 __32 cells__  
 
-<iframe src="https://player.vimeo.com/video/131198126?autoplay=1&loop=1" width="320" height="504" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></td></tr></table> <p>
-
+<iframe src="https://player.vimeo.com/video/131198126?autoplay=1&loop=1" width="320" height="504" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 __64 cells__  
 
