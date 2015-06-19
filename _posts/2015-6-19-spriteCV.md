@@ -20,7 +20,7 @@ __64 cells__
 <iframe src="https://player.vimeo.com/video/131198204?autoplay=1&loop=1" width="320" height="504" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 
-__128 cells__  
+__256 cells__  
 
 <iframe src="https://player.vimeo.com/video/131198197?autoplay=1&loop=1" width="320" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
