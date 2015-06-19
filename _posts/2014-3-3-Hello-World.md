@@ -3,4 +3,4 @@ layout: post
 title: spriteCV
 ---
 
-<iframe class="tscplayer_inline embeddedObject" name="tsc_player" scrolling="no" frameborder="0" type="text/html" style="overflow:hidden;" src="http://www.screencast.com/users/foundrytv/folders/spriteCV/media/13323de7-ced9-4d4b-bce4-9c04a26b3308/embed" height="720" width="460" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/131194000" width="500" height="783" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131194000">test4.7</a> from <a href="https://vimeo.com/foundrytv">foundry tv</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
