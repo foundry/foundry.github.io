@@ -5,7 +5,8 @@ published: true
 ---
 
 
-Custom UICollectionView layout giving __cells__ sprite-like behaviour  
+
+Custom UICollectionView layout giving cells sprite-like behaviour  
 
 
 
