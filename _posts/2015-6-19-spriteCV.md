@@ -1,9 +1,11 @@
 ---
 layout: post
 title: spriteCV
+published: true
 ---
 
-Custom UICollectionView layout giving cells sprite-like behaviour  
+
+Custom UICollectionView layout giving __cells__ sprite-like behaviour  
 
 
 
@@ -22,5 +24,4 @@ __64 cells__
 
 __256 cells__  
 
-<iframe src="https://player.vimeo.com/video/131198197?autoplay=1&loop=1" width="320" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-
+<iframe src="https://player.vimeo.com/video/131198197?autoplay=1&loop=1" width="320" height="510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
