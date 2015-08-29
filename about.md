@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[github user: foundry](http://github.com/foundry/)   
+[bitbucket user: foundry](http://bitbucket.org/foundry/)   
+[slashdot user: foundry](http://stackoverflow.com/users/1375695/foundry)  
+[redart.foundry.tv](http://redart.foundry.tv)  
+foundry at gmail dot com
