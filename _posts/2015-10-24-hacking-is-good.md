@@ -1,4 +1,11 @@
-http://www.meetup.com/UK-Hackathons-and-Jams/events/226147891/?a=ea1_evn&rv=ea1&_af=event&_af_eid=226147891&https=off
+---
+layout: post
+title: Hacking Is Good
+published: true
+---
+
+
+http://www.meetup.com/UK-Hackathons-and-Jams/events/226147891/
 
 "attendees will include entrepreneurs, academics, clinicians, corporates, students, and charities"
 
