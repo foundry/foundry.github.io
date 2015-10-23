@@ -9,10 +9,8 @@ published: true
 
 "attendees will include entrepreneurs, academics, clinicians, corporates, students, and charities"
 
-ummm… programmers don’t feature?
+I was brought up to think __hacking__ was a __bad thing__ done by __people who write code__
 
-I was brought up to think _hacking_ was a _bad thing_ done by _people who write code_
-
-Now it seems hacking is a _good thing_ done by _anyone except people who write code_
+Now it seems hacking is a __good thing__ done by __anyone except people who write code__
 
 Event provider: MedTechFocus Ltd
