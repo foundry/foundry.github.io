@@ -15,4 +15,4 @@ I was brought up to think _hacking_ was a _bad thing_ done by _people who write 
 
 Now it seems hacking is a _good thing_ done by _anyone except people who write code_
 
-Event sponsored by EyeFocus Idea Hack: Innovating eye care
+Event provider: MedTechFocus Ltd
