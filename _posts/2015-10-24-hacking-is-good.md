@@ -7,7 +7,8 @@ published: true
 
 [EyeFocus Idea Hack: Innovating eye care](http://www.meetup.com/UK-Hackathons-and-Jams/events/226147891/)
 
-"attendees will include entrepreneurs, academics, clinicians, corporates, students, and charities"
+"attendees will include entrepreneurs, academics, clinicians,
+corporates, students, and charities"
 
 I was brought up to think __hacking__ was a __bad thing__ done by __people who write code__
 
