@@ -14,7 +14,7 @@ Facebook’s business is to squeeze every ounce of data out of their users by ob
 
 Their business model _requires_ that they don’t even see anything wrong with this.
 
-Now their app is exposed as draining battery because it is always-on in the background. Gathering who-knows-what-data about you.
+Now their app is exposed as draining battery because it is always on in the background. Gathering who-knows-what-data about you.
 
 And we and they are calling this a __bug__?
 
