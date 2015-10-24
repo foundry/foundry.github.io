@@ -5,8 +5,6 @@ published: true
 ---
 
 
-facebook me stupid..
-
 (http://techcrunch.com/2015/10/22/facebook-says-it-fixed-a-bug-that-caused-silent-audio-to-vampire-your-iphone-battery/)
 (http://www.theverge.com/2015/10/22/9600466/facebook-acknowledges-ios-battery-drain)
 
