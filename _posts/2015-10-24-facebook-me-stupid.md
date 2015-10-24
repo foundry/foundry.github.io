@@ -1,7 +1,7 @@
 ---
 layout: post
 title: facebook me stupid
-published: true
+published: false
 ---
 
 
@@ -20,4 +20,3 @@ And we and they are calling this a __bug__?
 
 Facebook running a ‘silent audio stream’ is ‘unintentional’?
 
-Why do we give them the benefit of the doubt? Would we do the same for NSA? GCHQ? 
