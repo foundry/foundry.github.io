@@ -4,7 +4,7 @@ title: full motion video
 published: true
 ---
 
-getting towards _true_ full motion video...
+rough demo: pre-alpha
 
 recorder: iOS  
 player: OSX  
